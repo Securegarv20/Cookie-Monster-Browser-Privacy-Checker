@@ -168,7 +168,7 @@ I believe that:
 
 ### Q: Why Cookie Monster?
 
-**A:** Because privacy tools shouldn't be boring! If we're going to talk about cookies, I might as well have fun with it.
+**A:** Because privacy tools shouldn't be boring! If we're going to talk about cookies, we might as well have fun with it.
 
 ### Q: Can I use this on my phone?
 
