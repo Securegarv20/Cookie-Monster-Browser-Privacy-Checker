@@ -102,7 +102,7 @@ export function InteractiveEducation() {
   const question = QUIZ_QUESTIONS[currentQuestion];
 
   const toggleAnswer = (index: number) => {
-    if (showResult) return; // prevent changes after submit
+    if (showResult) return;
     setSelectedAnswers((prev) =>
       prev.includes(index)
         ? prev.filter((i) => i !== index)

@@ -1,5 +1,5 @@
 // API utilities for backend integration
-// This will be used when you add your Express.js backend
+// This will be used when I add my Express.js backend
 
 export interface ApiResponse<T = any> {
   success: boolean;
