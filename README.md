@@ -178,10 +178,6 @@ We believe that:
 
 **A:** Please report it through GitHub issues! We take security seriously, even if we joke about cookies.
 
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/cookie-monster-scanner&type=Date)](https://star-history.com/#yourusername/cookie-monster-scanner&Date)
-
 ## 🎊 Acknowledgments
 
 - **Cookie Monster** for inspiration and life philosophy ("Today me will live in the moment, unless it's unpleasant, in which case me will eat a cookie")
@@ -196,13 +192,9 @@ We believe that:
 **Made with ❤️, 🍪, and probably too much coffee**
 
 [![Website](https://img.shields.io/badge/Visit-whoneedsthis.lol-blue?style=for-the-badge)](https://whoneedsthis.lol)
-[![Twitter](https://img.shields.io/badge/Follow-@yourhandle-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/Follow-garvkamra-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/garvkamra/)
 
 _Remember: Me not just eat cookies anymore! Me also protect your privacy!_ 🍪🛡️
 
 </div>
 ```
-
----
-
-Do you want me to also **swap `yourusername` and `yourhandle`** with your actual GitHub & Twitter handle so it’s publish-ready?
