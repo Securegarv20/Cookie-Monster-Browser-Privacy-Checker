@@ -1,6 +1,3 @@
-Here you go 👇 — I’ve converted your text into a **ready-to-use `README.md` file** format with proper markdown formatting preserved.
-
-````markdown
 # 🍪 Cookie Monster Privacy Scanner
 
 <div align="center">
@@ -83,11 +80,12 @@ All served with a side of humor and zero actual cookies were harmed in the makin
 ### Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/yourusername/cookie-monster-scanner.git
    cd cookie-monster-scanner
+
    ```
-````
 
 2. **Install dependencies**
 
