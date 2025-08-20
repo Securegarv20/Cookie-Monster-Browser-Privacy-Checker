@@ -74,7 +74,7 @@ All served with a side of humor and zero actual cookies were harmed in the makin
 ### Prerequisites
 
 - Node.js 16+
-- A modern browser (Chrome, Firefox, Safari, Edge)
+- A modern browser (Brave, Chrome, Firefox, Safari, Edge)
 - A sense of humor (optional but recommended)
 
 ### Installation
@@ -82,8 +82,8 @@ All served with a side of humor and zero actual cookies were harmed in the makin
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/cookie-monster-scanner.git
-   cd cookie-monster-scanner
+   git clone https://github.com/Securegarv20/Cookie-Monster-Browser-Privacy-Checker.git
+   cd Cookie-Monster-Browser-Privacy-Checker
 
    ```
 
@@ -119,7 +119,7 @@ npm start
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Next.js 14, React, TypeScript
+- **Frontend**: Next.js 15, React, TypeScript
 - **UI**: Tailwind CSS, Shadcn/UI
 - **Icons**: Lucide React
 - **Analysis**: Custom cookie parsing engine
@@ -197,4 +197,3 @@ We believe that:
 _Remember: Me not just eat cookies anymore! Me also protect your privacy!_ 🍪🛡️
 
 </div>
-```
