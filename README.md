@@ -8,7 +8,7 @@
 
 **Because even Cookie Monster deserves privacy!** 🕵️‍♂️
 
-[Live Demo](https://whoneedsthis.lol) • [Report Bug](https://github.com/yourusername/cookie-monster-scanner/issues) • [Request Feature](https://github.com/yourusername/cookie-monster-scanner/issues)
+[Live Demo](https://whoneedsthis.lol) • [Report Bug](https://github.com/Securegarv20/Cookie-Monster-Browser-Privacy-Checker/issues) • [Request Feature](https://github.com/Securegarv20/Cookie-Monster-Browser-Privacy-Checker/issues)
 
 </div>
 
