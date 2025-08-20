@@ -125,24 +125,6 @@ npm start
 - **Analysis**: Custom cookie parsing engine
 - **Humor**: 100% organic, free-range developer jokes
 
-## 🏗️ Project Structure
-
-```
-cookie-monster-scanner/
-├── app/                 # Next.js app router
-├── components/          # React components
-│   ├── CookieScanner.tsx
-│   ├── CookieResults.tsx
-│   └── UI components
-├── lib/                 # Utility libraries
-│   └── cookieAnalyzer.ts
-├── types/               # TypeScript definitions
-│   └── cookies.ts
-├── utils/               # Helper functions
-│   └── cookieMonster.ts
-└── public/              # Static assets
-```
-
 ## 🤝 Contributing
 
 Want to make Cookie Monster even more awesome? Contributions are welcome!
