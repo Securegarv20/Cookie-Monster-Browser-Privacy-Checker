@@ -6,7 +6,7 @@
 ![Privacy](https://img.shields.io/badge/Privacy-First-green?style=for-the-badge&logo=lock&logoColor=white)
 ![Education](https://img.shields.io/badge/Educational-Fun-yellow?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
-**Because even Cookie Monster deserves privacy!** 🕵️‍♂️
+**Because even Cookie Monster deserves privacy!**
 
 [Live Demo](https://whoneedsthis.lol) • [Report Bug](https://github.com/Securegarv20/Cookie-Monster-Browser-Privacy-Checker/issues) • [Request Feature](https://github.com/Securegarv20/Cookie-Monster-Browser-Privacy-Checker/issues)
 
@@ -65,7 +65,7 @@ All served with a side of humor and zero actual cookies were harmed in the makin
 ### 🛡️ Privacy First
 
 - **100% Client-Side**: Your data never leaves your browser
-- **No Tracking**: We practice what we preach
+- **No Tracking**: I practice what I preach
 - **Transparent Code**: Open source so you can see exactly what we're doing
 - **Educational Focus**: Learn while you scan!
 
@@ -149,7 +149,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 🍪 Cookie Philosophy
 
-We believe that:
+I believe that:
 
 - Privacy should be accessible to everyone
 - Learning about security should be fun, not frightening
@@ -164,11 +164,11 @@ We believe that:
 
 ### Q: Is my data being collected?
 
-**A:** Absolutely not! Everything happens in your browser - we don't even have servers to collect data if we wanted to.
+**A:** Absolutely not! Everything happens in your browser - I don't even have servers to collect data if I wanted to.
 
 ### Q: Why Cookie Monster?
 
-**A:** Because privacy tools shouldn't be boring! If we're going to talk about cookies, we might as well have fun with it.
+**A:** Because privacy tools shouldn't be boring! If we're going to talk about cookies, I might as well have fun with it.
 
 ### Q: Can I use this on my phone?
 
@@ -176,7 +176,7 @@ We believe that:
 
 ### Q: What if I find a serious security issue?
 
-**A:** Please report it through GitHub issues! We take security seriously, even if we joke about cookies.
+**A:** Please report it through GitHub issues! I take security seriously, even if I joke about cookies.
 
 ## 🎊 Acknowledgments
 
